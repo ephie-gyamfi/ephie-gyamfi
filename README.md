@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ephie-gyamfi
-- 👀 I’m interested in Front-End Development and Web Design
-- 🌱 I’m currently brushing up on CSS & JavaScript 
+- 👀 I’m interested in Cloud Engineering & network fundamentals
+- 🌱 I’m currently brushing up on JavaScript 
 - 📫 How to reach me on LinkedIn 
 
 <!---

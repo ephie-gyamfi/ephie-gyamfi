@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ephie-gyamfi
 - 👀 I’m interested in Cloud Engineering & network fundamentals
-- 🌱 I’m currently brushing up on JavaScript 
+- 🌱 I’m currently brushing up on Python
 - 📫 How to reach me on LinkedIn 
 
 <!---
